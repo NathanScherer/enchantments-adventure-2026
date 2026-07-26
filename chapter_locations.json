@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-07-25T23:21:56.039Z",
+  "gpx_source": "Saturday_Morning_Activity.gpx",
+  "rescue_reported_coordinates": {
+    "lat": 47.48024,
+    "lon": -120.77538
+  },
+  "chapters": {
+    "1": {
+      "chapter": 1,
+      "title": "An Unexpected Journey",
+      "lat": 47.531883,
+      "lon": -120.81615,
+      "mile": 0,
+      "source": "initial interpolation"
+    },
+    "2": {
+      "chapter": 2,
+      "title": "Into the Forest",
+      "lat": 47.509026,
+      "lon": -120.831721,
+      "mile": 1.9982,
+      "source": "initial interpolation"
+    },
+    "3": {
+      "chapter": 3,
+      "title": "Colchuck Lake",
+      "lat": 47.497469,
+      "lon": -120.834586,
+      "mile": 4.3168,
+      "source": "manual route calibration"
+    },
+    "4": {
+      "chapter": 4,
+      "title": "Where the Trail Disappears",
+      "lat": 47.487327,
+      "lon": -120.831374,
+      "mile": 5.476,
+      "source": "manual route calibration"
+    },
+    "5": {
+      "chapter": 5,
+      "title": "Aasgard",
+      "lat": 47.483498,
+      "lon": -120.822814,
+      "mile": 6.1688,
+      "source": "manual route calibration"
+    },
+    "6": {
+      "chapter": 6,
+      "title": "Second Breakfast",
+      "lat": 47.479873,
+      "lon": -120.816859,
+      "mile": 6.8869,
+      "source": "manual route calibration"
+    },
+    "7": {
+      "chapter": 7,
+      "title": "The Enchanted Realm",
+      "lat": 47.481215,
+      "lon": -120.799829,
+      "mile": 8.1817,
+      "source": "manual route calibration"
+    },
+    "8": {
+      "chapter": 8,
+      "title": "Wolverines in Disguise",
+      "lat": 47.479984,
+      "lon": -120.790315,
+      "mile": 9.1758,
+      "source": "manual route calibration"
+    },
+    "9": {
+      "chapter": 9,
+      "title": "Iron Pass",
+      "lat": 47.48079,
+      "lon": -120.783778,
+      "mile": 9.5945,
+      "source": "manual route calibration"
+    },
+    "10": {
+      "chapter": 10,
+      "title": "Together Again",
+      "lat": 47.486844,
+      "lon": -120.748577,
+      "mile": 12.9653,
+      "source": "manual route calibration"
+    },
+    "11": {
+      "chapter": 11,
+      "title": "When the Mountain Changed",
+      "lat": 47.491446,
+      "lon": -120.743574,
+      "mile": 13.5724,
+      "source": "manually adjusted from SOS anchor"
+    },
+    "12": {
+      "chapter": 12,
+      "title": "Homeward Bound",
+      "lat": 47.544483,
+      "lon": -120.710572,
+      "mile": 19.9676,
+      "source": "initial interpolation"
+    }
+  }
+}

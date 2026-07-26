@@ -1,0 +1,12 @@
+ENCHANTMENTS WEBSITE BUILD V5
+==============================
+Source: Z:\Pictures\Pictures (2026)\Enchantments - Website
+Output: Z:\Pictures\Pictures (2026)\Enchantments - Website\_site_v5
+Chapters: 12
+Photos: 678
+Videos: 36
+Total media: 714
+Original size: 1.02 GB
+GPX: C:\Users\natha\Downloads\Saturday_Morning_Activity.gpx
+AI captions: Disabled
+Failures: 0
