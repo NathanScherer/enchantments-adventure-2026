@@ -1,7 +1,7 @@
-ENCHANTMENTS WEBSITE BUILD V6.1
+ENCHANTMENTS WEBSITE BUILD V6.2
 ==============================
 Source: Z:\Pictures\Pictures (2026)\Enchantments - Website
-Output: Z:\Pictures\Pictures (2026)\Enchantments - Website\_site_v6_1
+Output: Z:\Pictures\Pictures (2026)\Enchantments - Website\_site_v6_2
 Chapters: 12
 Photos: 678
 Videos: 36
